@@ -1,2 +1,7 @@
-# sprite
-雪碧图工具fork至AlloyTeam
+GoPng
+=====
+
+GoPng
+
+## live demo
+http://alloyteam.github.com/gopng/
